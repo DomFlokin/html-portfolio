@@ -1,0 +1,8 @@
+<h1>Welcome to my Website</h1>
+<a href="./aboutme.html">
+    <img src="cat.jpeg" alt="CAT">  <!-- Add Image that link to other Page -->
+</a>
+<hr />
+
+<a href="./contact.html">Contact Me</a> <!-- Add links to your Contact Page -->
+
